@@ -1,0 +1,16 @@
+.divdisplay{
+    font-size: 38px;
+    font-style: italic;
+}
+
+.imagesize{
+    width: 100%;
+    height: 100%;
+}
+
+.frame{
+    border: solid #4b05bb 2px;
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+}
